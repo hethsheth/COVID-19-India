@@ -1,0 +1,10 @@
+All the decisions related to the project were taken collectively as a team. 
+The names mentioned below are merely the person responsible to manage the code/content:-
+
+Data collection: Ameya Laad, Heth Sheth, Kushal Shah, Nandish Chheda
+Feature Engineering: Ameya Laad, Heth Sheth, Kushal Shah, Nandish Chheda
+Machine Learning Models: Kushal Shah, Nandish Chheda
+Deep Learning Models: Ameya Laad, Heth Sheth
+Models involving world data: Ameya Laad, Heth Sheth
+Impact of Lockdown: Kushal Shah, Nandish Chheda
+Report Writing and Plotting: Ameya Laad, Heth Sheth, Kushal Shah, Nandish Chheda
