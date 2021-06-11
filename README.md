@@ -19,5 +19,3 @@ _All source codes are python notebooks. The path to csv files will have to be ch
 * Seq2Seq.ipynb - Using the confirmed cases of India runs univariate Seq2Seq models to predict the number of new cases in the second wave
 
 * Lockdown_Impact.ipynb - Uses linear regression model to predict impact of lockdown on 2nd wave
-
-#### Details of the various runs on the deep learning models can be found at https://wandb.ai/covid19india/projects
